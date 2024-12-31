@@ -1,6 +1,6 @@
 [submodule "osd-events-app"]
 	path = osd-events-app
-	url = ./osd-events-app
+	url = https://github.com/chrislyons/osd-events-app.git
 [submodule "osd-react-app"]
 	path = osd-react-app
-	url = ./osd-react-app
+	url = https://github.com/chrislyons/osd-react-app.git
