@@ -1,0 +1,6 @@
+[submodule "osd-events-app"]
+	path = osd-events-app
+	url = ./osd-events-app
+[submodule "osd-react-app"]
+	path = osd-react-app
+	url = ./osd-react-app

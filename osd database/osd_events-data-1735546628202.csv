@@ -1,0 +1,6 @@
+"id","event_name","venue","city","event_date","description","ticket_link","created_at","tags","status"
+1,"Rock Night","The Opera House","Toronto","2024-05-01","A night of classic rock bands.","http://tickets.com/rocknight","2024-12-29 01:25:05.042538","admin","approved"
+2,"The Brokes","The Phoenix","Toronto","2025-02-15","Toronto's The Brokes are back","http://yayaya.com","2024-12-29 01:57:36.930878","admin","test"
+4,"Bo's Megalomaniac Bash","SoyBombomb","Toronto","2025-03-11","Ya guy cuz like yeah","http://soybutts.to/","2024-12-29 19:50:49.79345","admin","test"
+3,"Hobby the Band","Baby G","Toronto","2025-01-29","Hobby is a band that plays songs.","http://supercool.net","2024-12-29 04:33:26.387879","admin","test"
+6,"LAURA MARLING","The Great Hall","Toronto","2025-04-01","Ya she gon rok u :)","http://ticketdweeb.ca/","2024-12-30 02:37:21.540106",NULL,"pending"
